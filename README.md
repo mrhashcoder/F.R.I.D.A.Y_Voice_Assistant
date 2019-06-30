@@ -15,7 +15,7 @@ These listed tasks can be done by FRIDAY :
 
 
 # libraries and packages to install
-1.speechrecognigition
+1.speechrecognition
 2.pyaudio
 3.wikipedia
 4.pyttsx3
